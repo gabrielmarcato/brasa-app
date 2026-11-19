@@ -43,5 +43,11 @@
     "lint": "expo lint"
   },
   "private": true,
-  "description": "Brasa — app de delivery de hamburgueria (projeto de portfólio, dados mockados)."
+  "description": "Brasa — app de delivery de hamburgueria (projeto de portfólio, dados mockados).",
+  "license": "MIT",
+  "author": "Gabriel Marcato",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielmarcato/brasa-app.git"
+  }
 }

@@ -87,6 +87,10 @@ screenshots/      capturas usadas neste README
 - **Placeholders de foto:** as imagens dos produtos são placeholders; para usar fotos reais, troque `PhotoPlaceholder` por `<Image>` nos cards, no detalhe e no carrinho.
 - No Android, o blur usa `dimezisBlurView` (modo experimental do `expo-blur`).
 
+## Licença
+
+Distribuído sob a licença [MIT](LICENSE).
+
 ---
 
 Feito por [Gabriel Marcato](https://github.com/gabrielmarcato).
